@@ -2,7 +2,7 @@
 ---
 This repository is for Lab 1 parts 2 and 4 submission
  
-## 1.1 Android Studio and Hello World
+## 1.2 Your First Interactive UI
  
 We built our first app,played with the user interface, and learned how to interact with the java file.
 In lesson four we update the app icon
